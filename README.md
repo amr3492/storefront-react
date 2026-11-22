@@ -4,6 +4,8 @@ A responsive e-commerce front-end built with React 18 + Vite: product catalog wi
 
 The demo catalog is Egyptian-themed (coffee, karkade, dukkah, Siwa dates, crafts) and fully self-contained - gradient monogram tiles instead of image assets, so the demo builds and runs offline.
 
+**[Live demo](https://amr3492.github.io/storefront-react/)** - full catalog, cart and checkout flow, no backend needed.
+
 ![Storefront](screenshots/storefront.png)
 
 ## Features
